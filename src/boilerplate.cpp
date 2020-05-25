@@ -11,7 +11,7 @@ void send_HTML_header() {
             << "<link rel=\"stylesheet\" href=\"yewscion.css\" "
             << "type=\"text/css\" />\n<meta name=\"viewport\" "
             << "content=\"width=device-width, initial-scale=1.0\" />"
-            << "/n<head>\n"
+            << "\n</head>\n"
             << "<body>\n<header>\n<h1>Hello Yew Scion!</h1>\n</header>\n"
             << "<main>\n";
 }
